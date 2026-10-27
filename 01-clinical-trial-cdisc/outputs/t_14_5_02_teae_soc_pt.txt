@@ -1,0 +1,286 @@
+Table 14-5.02 Incidence of Treatment-Emergent Adverse Events by SOC and PT
+Population: Safety
+
+-----------------------------------------------------------------------------------------------------------------------------
+System organ class                                                     Placebo     Xanomeline Low Dose   Xanomeline High Dose
+  Preferred term                                                        (N=86)           (N=96)                 (N=72)       
+-----------------------------------------------------------------------------------------------------------------------------
+Subjects with at least one TEAE                                       65 (75.6%)       84 (87.5%)             69 (95.8%)     
+Total number of TEAEs                                                    281               427                   418         
+GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS                                                                         
+  Subjects with at least one event                                    21 (24.4%)       51 (53.1%)             36 (50.0%)     
+  APPLICATION SITE PRURITUS                                            6 (7.0%)        23 (24.0%)             21 (29.2%)     
+  APPLICATION SITE ERYTHEMA                                            3 (3.5%)        13 (13.5%)             14 (19.4%)     
+  APPLICATION SITE DERMATITIS                                          5 (5.8%)         9 (9.4%)               7 (9.7%)      
+  APPLICATION SITE IRRITATION                                          3 (3.5%)         9 (9.4%)              9 (12.5%)      
+  APPLICATION SITE VESICLES                                            1 (1.2%)         5 (5.2%)               5 (6.9%)      
+  FATIGUE                                                              1 (1.2%)         5 (5.2%)               5 (6.9%)      
+  OEDEMA PERIPHERAL                                                    2 (2.3%)         1 (1.0%)               2 (2.8%)      
+  APPLICATION SITE SWELLING                                               0             1 (1.0%)               2 (2.8%)      
+  APPLICATION SITE URTICARIA                                              0             2 (2.1%)               1 (1.4%)      
+  CHILLS                                                               1 (1.2%)         1 (1.0%)               1 (1.4%)      
+  MALAISE                                                                 0             1 (1.0%)               2 (2.8%)      
+  PYREXIA                                                              2 (2.3%)         1 (1.0%)                  0          
+  APPLICATION SITE PAIN                                                   0                 0                  2 (2.8%)      
+  APPLICATION SITE PERSPIRATION                                           0                 0                  2 (2.8%)      
+  APPLICATION SITE REACTION                                            1 (1.2%)             0                  1 (1.4%)      
+  ASTHENIA                                                             1 (1.2%)         1 (1.0%)                  0          
+  CHEST DISCOMFORT                                                        0             1 (1.0%)               1 (1.4%)      
+  CHEST PAIN                                                              0                 0                  2 (2.8%)      
+  OEDEMA                                                                  0             2 (2.1%)                  0          
+  PAIN                                                                    0             1 (1.0%)               1 (1.4%)      
+  APPLICATION SITE BLEEDING                                               0             1 (1.0%)                  0          
+  APPLICATION SITE DESQUAMATION                                           0             1 (1.0%)                  0          
+  APPLICATION SITE DISCHARGE                                              0                 0                  1 (1.4%)      
+  APPLICATION SITE DISCOLOURATION                                         0             1 (1.0%)                  0          
+  APPLICATION SITE INDURATION                                          1 (1.2%)             0                     0          
+  APPLICATION SITE WARMTH                                                 0             1 (1.0%)                  0          
+  FEELING ABNORMAL                                                        0                 0                  1 (1.4%)      
+  FEELING COLD                                                            0                 0                  1 (1.4%)      
+  INFLAMMATION                                                            0             1 (1.0%)                  0          
+  SECRETION DISCHARGE                                                     0             1 (1.0%)                  0          
+  SUDDEN DEATH                                                            0             1 (1.0%)                  0          
+  SWELLING                                                                0             1 (1.0%)                  0          
+  ULCER                                                                   0             1 (1.0%)                  0          
+SKIN AND SUBCUTANEOUS TISSUE DISORDERS                                                                                       
+  Subjects with at least one event                                    20 (23.3%)       39 (40.6%)             40 (55.6%)     
+  PRURITUS                                                             8 (9.3%)        21 (21.9%)             26 (36.1%)     
+  ERYTHEMA                                                             8 (9.3%)        14 (14.6%)             14 (19.4%)     
+  RASH                                                                 5 (5.8%)        13 (13.5%)             9 (12.5%)      
+  HYPERHIDROSIS                                                        2 (2.3%)         4 (4.2%)              8 (11.1%)      
+  SKIN IRRITATION                                                      3 (3.5%)         6 (6.2%)               5 (6.9%)      
+  BLISTER                                                                 0             5 (5.2%)               1 (1.4%)      
+  RASH PRURITIC                                                           0             1 (1.0%)               2 (2.8%)      
+  PRURITUS GENERALISED                                                    0             1 (1.0%)               1 (1.4%)      
+  URTICARIA                                                               0             1 (1.0%)               1 (1.4%)      
+  ACTINIC KERATOSIS                                                       0                 0                  1 (1.4%)      
+  ALOPECIA                                                             1 (1.2%)             0                     0          
+  COLD SWEAT                                                           1 (1.2%)             0                     0          
+  DERMATITIS CONTACT                                                      0             1 (1.0%)                  0          
+  DRUG ERUPTION                                                        1 (1.2%)             0                     0          
+  RASH ERYTHEMATOUS                                                       0             1 (1.0%)                  0          
+  RASH MACULO-PAPULAR                                                     0                 0                  1 (1.4%)      
+  SKIN EXFOLIATION                                                        0             1 (1.0%)                  0          
+  SKIN ODOUR ABNORMAL                                                     0                 0                  1 (1.4%)      
+  SKIN ULCER                                                           1 (1.2%)             0                     0          
+NERVOUS SYSTEM DISORDERS                                                                                                     
+  Subjects with at least one event                                     8 (9.3%)        22 (22.9%)             23 (31.9%)     
+  DIZZINESS                                                            2 (2.3%)         9 (9.4%)              10 (13.9%)     
+  HEADACHE                                                             3 (3.5%)         3 (3.1%)               5 (6.9%)      
+  SYNCOPE                                                                 0             5 (5.2%)               2 (2.8%)      
+  SOMNOLENCE                                                           2 (2.3%)         3 (3.1%)               1 (1.4%)      
+  TRANSIENT ISCHAEMIC ATTACK                                              0             2 (2.1%)               1 (1.4%)      
+  BURNING SENSATION                                                       0                 0                  2 (2.8%)      
+  LETHARGY                                                                0             1 (1.0%)               1 (1.4%)      
+  AMNESIA                                                                 0                 0                  1 (1.4%)      
+  BALANCE DISORDER                                                        0             1 (1.0%)                  0          
+  COGNITIVE DISORDER                                                      0                 0                  1 (1.4%)      
+  COMPLEX PARTIAL SEIZURES                                                0             1 (1.0%)                  0          
+  COORDINATION ABNORMAL                                                   0             1 (1.0%)                  0          
+  HEMIANOPIA HOMONYMOUS                                                   0             1 (1.0%)                  0          
+  HYPERSOMNIA                                                             0                 0                  1 (1.4%)      
+  PARAESTHESIA                                                            0                 0                  1 (1.4%)      
+  PARAESTHESIA ORAL                                                       0             1 (1.0%)                  0          
+  PARKINSON'S DISEASE                                                  1 (1.2%)             0                     0          
+  PAROSMIA                                                                0                 0                  1 (1.4%)      
+  PARTIAL SEIZURES WITH SECONDARY GENERALISATION                          0                 0                  1 (1.4%)      
+  PSYCHOMOTOR HYPERACTIVITY                                            1 (1.2%)             0                     0          
+  STUPOR                                                                  0             1 (1.0%)                  0          
+  SYNCOPE VASOVAGAL                                                       0                 0                  1 (1.4%)      
+GASTROINTESTINAL DISORDERS                                                                                                   
+  Subjects with at least one event                                    17 (19.8%)       15 (15.6%)             19 (26.4%)     
+  DIARRHOEA                                                           9 (10.5%)         5 (5.2%)               3 (4.2%)      
+  VOMITING                                                             3 (3.5%)         4 (4.2%)               6 (8.3%)      
+  NAUSEA                                                               3 (3.5%)         3 (3.1%)               6 (8.3%)      
+  ABDOMINAL PAIN                                                       1 (1.2%)         3 (3.1%)               1 (1.4%)      
+  SALIVARY HYPERSECRETION                                                 0                 0                  4 (5.6%)      
+  DYSPEPSIA                                                            1 (1.2%)         1 (1.0%)                  0          
+  ABDOMINAL DISCOMFORT                                                    0                 0                  1 (1.4%)      
+  CONSTIPATION                                                         1 (1.2%)             0                     0          
+  DYSPHAGIA                                                               0             1 (1.0%)                  0          
+  FLATULENCE                                                           1 (1.2%)             0                     0          
+  GASTROINTESTINAL HAEMORRHAGE                                            0                 0                  1 (1.4%)      
+  GASTROOESOPHAGEAL REFLUX DISEASE                                     1 (1.2%)             0                     0          
+  GLOSSITIS                                                            1 (1.2%)             0                     0          
+  HIATUS HERNIA                                                        1 (1.2%)             0                     0          
+  RECTAL HAEMORRHAGE                                                      0             1 (1.0%)                  0          
+  STOMACH DISCOMFORT                                                      0                 0                  1 (1.4%)      
+CARDIAC DISORDERS                                                                                                            
+  Subjects with at least one event                                    12 (14.0%)       14 (14.6%)             14 (19.4%)     
+  SINUS BRADYCARDIA                                                    2 (2.3%)         7 (7.3%)              8 (11.1%)      
+  MYOCARDIAL INFARCTION                                                4 (4.7%)         2 (2.1%)               4 (5.6%)      
+  ATRIAL FIBRILLATION                                                  1 (1.2%)         2 (2.1%)               2 (2.8%)      
+  SUPRAVENTRICULAR EXTRASYSTOLES                                       1 (1.2%)         1 (1.0%)               1 (1.4%)      
+  VENTRICULAR EXTRASYSTOLES                                               0             2 (2.1%)               1 (1.4%)      
+  ATRIAL FLUTTER                                                          0             1 (1.0%)               1 (1.4%)      
+  ATRIOVENTRICULAR BLOCK FIRST DEGREE                                  1 (1.2%)         1 (1.0%)                  0          
+  BUNDLE BRANCH BLOCK RIGHT                                            1 (1.2%)         1 (1.0%)                  0          
+  PALPITATIONS                                                            0             2 (2.1%)                  0          
+  ATRIAL HYPERTROPHY                                                   1 (1.2%)             0                     0          
+  ATRIOVENTRICULAR BLOCK SECOND DEGREE                                 1 (1.2%)             0                     0          
+  BRADYCARDIA                                                          1 (1.2%)             0                     0          
+  BUNDLE BRANCH BLOCK LEFT                                             1 (1.2%)             0                     0          
+  CARDIAC DISORDER                                                        0                 0                  1 (1.4%)      
+  CARDIAC FAILURE CONGESTIVE                                           1 (1.2%)             0                     0          
+  SINUS ARRHYTHMIA                                                     1 (1.2%)             0                     0          
+  SUPRAVENTRICULAR TACHYCARDIA                                            0             1 (1.0%)                  0          
+  TACHYCARDIA                                                          1 (1.2%)             0                     0          
+  VENTRICULAR HYPERTROPHY                                              1 (1.2%)             0                     0          
+  WOLFF-PARKINSON-WHITE SYNDROME                                          0             1 (1.0%)                  0          
+INFECTIONS AND INFESTATIONS                                                                                                  
+  Subjects with at least one event                                    16 (18.6%)        9 (9.4%)              13 (18.1%)     
+  NASOPHARYNGITIS                                                      2 (2.3%)         4 (4.2%)               6 (8.3%)      
+  UPPER RESPIRATORY TRACT INFECTION                                    6 (7.0%)         1 (1.0%)               3 (4.2%)      
+  INFLUENZA                                                            1 (1.2%)         1 (1.0%)               1 (1.4%)      
+  URINARY TRACT INFECTION                                              2 (2.3%)             0                  1 (1.4%)      
+  CYSTITIS                                                             1 (1.2%)             0                  1 (1.4%)      
+  EAR INFECTION                                                        2 (2.3%)             0                     0          
+  BRONCHITIS                                                           1 (1.2%)             0                     0          
+  CELLULITIS                                                              0             1 (1.0%)                  0          
+  CERVICITIS                                                           1 (1.2%)             0                     0          
+  GASTROENTERITIS VIRAL                                                1 (1.2%)             0                     0          
+  HORDEOLUM                                                               0                 0                  1 (1.4%)      
+  LOCALISED INFECTION                                                  1 (1.2%)             0                     0          
+  LOWER RESPIRATORY TRACT INFECTION                                       0                 0                  1 (1.4%)      
+  PNEUMONIA                                                               0             1 (1.0%)                  0          
+  RHINITIS                                                                0                 0                  1 (1.4%)      
+  VAGINAL MYCOSIS                                                      1 (1.2%)             0                     0          
+  VIRAL INFECTION                                                         0             1 (1.0%)                  0          
+PSYCHIATRIC DISORDERS                                                                                                        
+  Subjects with at least one event                                    10 (11.6%)       11 (11.5%)              7 (9.7%)      
+  CONFUSIONAL STATE                                                    2 (2.3%)         3 (3.1%)               1 (1.4%)      
+  AGITATION                                                            2 (2.3%)         3 (3.1%)                  0          
+  INSOMNIA                                                             2 (2.3%)             0                  2 (2.8%)      
+  ANXIETY                                                                 0             3 (3.1%)                  0          
+  DELUSION                                                             1 (1.2%)             0                  1 (1.4%)      
+  IRRITABILITY                                                         1 (1.2%)         1 (1.0%)                  0          
+  COMPLETED SUICIDE                                                    1 (1.2%)             0                     0          
+  DELIRIUM                                                                0                 0                  1 (1.4%)      
+  DEPRESSED MOOD                                                          0             1 (1.0%)                  0          
+  DISORIENTATION                                                       1 (1.2%)             0                     0          
+  HALLUCINATION                                                           0                 0                  1 (1.4%)      
+  HALLUCINATION, VISUAL                                                   0                 0                  1 (1.4%)      
+  LIBIDO DECREASED                                                        0                 0                  1 (1.4%)      
+  LISTLESS                                                                0                 0                  1 (1.4%)      
+  NIGHTMARE                                                               0                 0                  1 (1.4%)      
+  RESTLESSNESS                                                            0             1 (1.0%)                  0          
+RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS                                                                              
+  Subjects with at least one event                                     8 (9.3%)         9 (9.4%)              10 (13.9%)     
+  COUGH                                                                1 (1.2%)         5 (5.2%)               5 (6.9%)      
+  NASAL CONGESTION                                                     3 (3.5%)         1 (1.0%)               3 (4.2%)      
+  DYSPNOEA                                                             1 (1.2%)         1 (1.0%)               1 (1.4%)      
+  EPISTAXIS                                                               0             1 (1.0%)               2 (2.8%)      
+  PHARYNGOLARYNGEAL PAIN                                                  0             1 (1.0%)               1 (1.4%)      
+  RHINORRHOEA                                                             0             1 (1.0%)               1 (1.4%)      
+  ALLERGIC GRANULOMATOUS ANGIITIS                                         0                 0                  1 (1.4%)      
+  DYSPHONIA                                                               0             1 (1.0%)                  0          
+  EMPHYSEMA                                                            1 (1.2%)             0                     0          
+  HAEMOPTYSIS                                                          1 (1.2%)             0                     0          
+  PHARYNGEAL ERYTHEMA                                                     0                 0                  1 (1.4%)      
+  POSTNASAL DRIP                                                       1 (1.2%)             0                     0          
+  PRODUCTIVE COUGH                                                        0                 0                  1 (1.4%)      
+  RALES                                                                1 (1.2%)             0                     0          
+  RESPIRATORY TRACT CONGESTION                                            0                 0                  1 (1.4%)      
+INVESTIGATIONS                                                                                                               
+  Subjects with at least one event                                    10 (11.6%)        7 (7.3%)               5 (6.9%)      
+  ELECTROCARDIOGRAM ST SEGMENT DEPRESSION                              4 (4.7%)         1 (1.0%)                  0          
+  ELECTROCARDIOGRAM T WAVE INVERSION                                   2 (2.3%)         1 (1.0%)               1 (1.4%)      
+  BLOOD GLUCOSE INCREASED                                                 0             1 (1.0%)               1 (1.4%)      
+  ELECTROCARDIOGRAM T WAVE AMPLITUDE DECREASED                         1 (1.2%)         1 (1.0%)                  0          
+  BIOPSY                                                                  0                 0                  1 (1.4%)      
+  BIOPSY PROSTATE                                                         0                 0                  1 (1.4%)      
+  BLOOD ALKALINE PHOSPHATASE INCREASED                                 1 (1.2%)             0                     0          
+  BLOOD CHOLESTEROL INCREASED                                             0                 0                  1 (1.4%)      
+  BLOOD CREATINE PHOSPHOKINASE INCREASED                               1 (1.2%)             0                     0          
+  BLOOD URINE PRESENT                                                  1 (1.2%)             0                     0          
+  BODY TEMPERATURE INCREASED                                              0             1 (1.0%)                  0          
+  CYSTOSCOPY                                                           1 (1.2%)             0                     0          
+  HEART RATE INCREASED                                                 1 (1.2%)             0                     0          
+  HEART RATE IRREGULAR                                                 1 (1.2%)             0                     0          
+  NASAL MUCOSA BIOPSY                                                     0             1 (1.0%)                  0          
+  WEIGHT DECREASED                                                        0             1 (1.0%)                  0          
+MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERS                                                                              
+  Subjects with at least one event                                     4 (4.7%)         7 (7.3%)               7 (9.7%)      
+  BACK PAIN                                                            1 (1.2%)         1 (1.0%)               3 (4.2%)      
+  ARTHRALGIA                                                           1 (1.2%)         2 (2.1%)               1 (1.4%)      
+  SHOULDER PAIN                                                        1 (1.2%)         2 (2.1%)                  0          
+  MUSCLE SPASMS                                                           0             1 (1.0%)               1 (1.4%)      
+  ARTHRITIS                                                               0                 0                  1 (1.4%)      
+  FLANK PAIN                                                              0                 0                  1 (1.4%)      
+  MUSCULAR WEAKNESS                                                       0             1 (1.0%)                  0          
+  MYALGIA                                                                 0                 0                  1 (1.4%)      
+  PAIN IN EXTREMITY                                                    1 (1.2%)             0                     0          
+INJURY, POISONING AND PROCEDURAL COMPLICATIONS                                                                               
+  Subjects with at least one event                                     4 (4.7%)         5 (5.2%)               5 (6.9%)      
+  CONTUSION                                                            1 (1.2%)         1 (1.0%)               2 (2.8%)      
+  EXCORIATION                                                          2 (2.3%)         1 (1.0%)               1 (1.4%)      
+  FALL                                                                 1 (1.2%)         2 (2.1%)               1 (1.4%)      
+  HIP FRACTURE                                                         1 (1.2%)             0                  2 (2.8%)      
+  SKIN LACERATION                                                      1 (1.2%)         2 (2.1%)                  0          
+  FACIAL BONES FRACTURE                                                   0                 0                  1 (1.4%)      
+  JOINT DISLOCATION                                                       0             1 (1.0%)                  0          
+  WOUND                                                                   0             1 (1.0%)                  0          
+RENAL AND URINARY DISORDERS                                                                                                  
+  Subjects with at least one event                                     4 (4.7%)         3 (3.1%)               3 (4.2%)      
+  MICTURITION URGENCY                                                  1 (1.2%)         1 (1.0%)               1 (1.4%)      
+  DYSURIA                                                              1 (1.2%)         1 (1.0%)                  0          
+  NEPHROLITHIASIS                                                      1 (1.2%)             0                  1 (1.4%)      
+  CALCULUS URETHRAL                                                       0                 0                  1 (1.4%)      
+  INCONTINENCE                                                            0             1 (1.0%)                  0          
+  POLLAKIURIA                                                          1 (1.2%)             0                     0          
+METABOLISM AND NUTRITION DISORDERS                                                                                           
+  Subjects with at least one event                                     6 (7.0%)         1 (1.0%)               2 (2.8%)      
+  DECREASED APPETITE                                                   1 (1.2%)             0                  1 (1.4%)      
+  FOOD CRAVING                                                         1 (1.2%)         1 (1.0%)                  0          
+  INCREASED APPETITE                                                   1 (1.2%)             0                  1 (1.4%)      
+  DEHYDRATION                                                          1 (1.2%)             0                     0          
+  DIABETES MELLITUS                                                    1 (1.2%)             0                     0          
+  HYPONATRAEMIA                                                        1 (1.2%)             0                     0          
+VASCULAR DISORDERS                                                                                                           
+  Subjects with at least one event                                     3 (3.5%)         3 (3.1%)               1 (1.4%)      
+  HYPOTENSION                                                          2 (2.3%)         1 (1.0%)                  0          
+  HYPERTENSION                                                         1 (1.2%)         1 (1.0%)                  0          
+  HOT FLUSH                                                               0             1 (1.0%)                  0          
+  ORTHOSTATIC HYPOTENSION                                              1 (1.2%)             0                     0          
+  WOUND HAEMORRHAGE                                                       0                 0                  1 (1.4%)      
+EYE DISORDERS                                                                                                                
+  Subjects with at least one event                                     2 (2.3%)         2 (2.1%)               1 (1.4%)      
+  VISION BLURRED                                                          0             1 (1.0%)               1 (1.4%)      
+  CONJUNCTIVAL HAEMORRHAGE                                                0             1 (1.0%)                  0          
+  CONJUNCTIVITIS                                                       1 (1.2%)             0                     0          
+  EYE ALLERGY                                                          1 (1.2%)             0                     0          
+  EYE PRURITUS                                                         1 (1.2%)             0                     0          
+  EYE SWELLING                                                         1 (1.2%)             0                     0          
+SURGICAL AND MEDICAL PROCEDURES                                                                                              
+  Subjects with at least one event                                     2 (2.3%)         1 (1.0%)               2 (2.8%)      
+  CATARACT OPERATION                                                   1 (1.2%)         1 (1.0%)                  0          
+  ACROCHORDON EXCISION                                                    0                 0                  1 (1.4%)      
+  EYE LASER SURGERY                                                    1 (1.2%)             0                     0          
+  SKIN LESION EXCISION                                                    0                 0                  1 (1.4%)      
+EAR AND LABYRINTH DISORDERS                                                                                                  
+  Subjects with at least one event                                     1 (1.2%)         2 (2.1%)               1 (1.4%)      
+  VERTIGO                                                                 0             1 (1.0%)               1 (1.4%)      
+  CERUMEN IMPACTION                                                       0             1 (1.0%)                  0          
+  EAR PAIN                                                             1 (1.2%)             0                     0          
+REPRODUCTIVE SYSTEM AND BREAST DISORDERS                                                                                     
+  Subjects with at least one event                                     2 (2.3%)             0                  1 (1.4%)      
+  BENIGN PROSTATIC HYPERPLASIA                                         1 (1.2%)             0                  1 (1.4%)      
+  PELVIC PAIN                                                          1 (1.2%)             0                     0          
+CONGENITAL, FAMILIAL AND GENETIC DISORDERS                                                                                   
+  Subjects with at least one event                                        0             1 (1.0%)               2 (2.8%)      
+  VENTRICULAR SEPTAL DEFECT                                               0             1 (1.0%)               2 (2.8%)      
+NEOPLASMS BENIGN, MALIGNANT AND UNSPECIFIED (INCL CYSTS AND POLYPS)                                                          
+  Subjects with at least one event                                        0             2 (2.1%)               1 (1.4%)      
+  COLON CANCER                                                            0             1 (1.0%)                  0          
+  MALIGNANT FIBROUS HISTIOCYTOMA                                          0             1 (1.0%)                  0          
+  PROSTATE CANCER                                                         0                 0                  1 (1.4%)      
+HEPATOBILIARY DISORDERS                                                                                                      
+  Subjects with at least one event                                     1 (1.2%)             0                     0          
+  HYPERBILIRUBINAEMIA                                                  1 (1.2%)             0                     0          
+SOCIAL CIRCUMSTANCES                                                                                                         
+  Subjects with at least one event                                        0                 0                  1 (1.4%)      
+  ALCOHOL USE                                                             0                 0                  1 (1.4%)      
+IMMUNE SYSTEM DISORDERS                                                                                                      
+  Subjects with at least one event                                        0             1 (1.0%)                  0          
+  HYPERSENSITIVITY                                                        0             1 (1.0%)                  0          
+

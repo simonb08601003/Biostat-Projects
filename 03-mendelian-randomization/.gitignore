@@ -1,0 +1,4 @@
+data-raw/
+*_files/
+data-raw/download*.log
+data-raw/manifest.tsv

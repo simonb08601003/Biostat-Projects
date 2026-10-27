@@ -1,0 +1,55 @@
+Dose-response (ANCOVA, week 24 LOCF, dose as continuous)
+         Estimate Std. Error  t value  Pr(>|t|)
+TRTPN -0.01179222 0.01010984 -1.16641 0.2447057
+
+ANCOVA LS means
+ TRTP                   emmean        SE  df  lower.CL upper.CL
+ Placebo              2.473676 0.6047157 220 1.2818984 3.665453
+ Xanomeline Low Dose  2.006893 0.5935242 220 0.8371725 3.176614
+ Xanomeline High Dose 1.467662 0.6243844 220 0.2371217 2.698202
+
+Results are averaged over the levels of: SITEGR1 
+Confidence level used: 0.95 
+
+ANCOVA vs placebo
+                        contrast   estimate        SE  df  lower.CL  upper.CL    t.ratio   p.value             analysis
+1  Xanomeline Low Dose - Placebo -0.4667824 0.8180422 220 -2.078985 1.1454198 -0.5706091 0.5688470 ANCOVA, Week 24 LOCF
+2 Xanomeline High Dose - Placebo -1.0060136 0.8405294 220 -2.662534 0.6505064 -1.1968810 0.2326411 ANCOVA, Week 24 LOCF
+
+MMRM LS means (observed data, unstructured, Kenward-Roger)
+AVISIT = Week 8:
+ TRTP                    emmean        SE     df   lower.CL upper.CL
+ Placebo              0.5614330 0.4788336 221.83 -0.3822118 1.505078
+ Xanomeline Low Dose  1.6123176 0.4701900 221.46  0.6856983 2.538937
+ Xanomeline High Dose 0.7580452 0.4939935 221.69 -0.2154788 1.731569
+
+AVISIT = Week 16:
+ TRTP                    emmean        SE     df   lower.CL upper.CL
+ Placebo              1.7700784 0.6415496 155.95  0.5028306 3.037326
+ Xanomeline Low Dose  1.1933009 0.7674090 169.29 -0.3216225 2.708224
+ Xanomeline High Dose 1.1218934 0.7930858 169.27 -0.4437196 2.687506
+
+AVISIT = Week 24:
+ TRTP                    emmean        SE     df   lower.CL upper.CL
+ Placebo              2.3291197 0.6840886 163.62  0.9783398 3.679900
+ Xanomeline Low Dose  1.7352236 0.7590389 174.00  0.2371148 3.233332
+ Xanomeline High Dose 1.5009213 0.8283645 178.27 -0.1337402 3.135583
+
+Results are averaged over the levels of: SITEGR1 
+Confidence level used: 0.95 
+
+MMRM vs placebo
+                        contrast  AVISIT   estimate        SE       df   lower.CL upper.CL    t.ratio   p.value
+1  Xanomeline Low Dose - Placebo  Week 8  1.0508846 0.6489353 219.3248 -0.2280625 2.329832  1.6193981 0.1067986
+2 Xanomeline High Dose - Placebo  Week 8  0.1966122 0.6667674 219.3357 -1.1174788 1.510703  0.2948737 0.7683693
+3  Xanomeline Low Dose - Placebo Week 16 -0.5767775 0.9876175 162.5504 -2.5269917 1.373437 -0.5840090 0.5600238
+4 Xanomeline High Dose - Placebo Week 16 -0.6481850 1.0076301 161.4721 -2.6380170 1.341647 -0.6432768 0.5209570
+5  Xanomeline Low Dose - Placebo Week 24 -0.5938961 1.0085547 166.1466 -2.5851309 1.397339 -0.5888586 0.5567558
+6 Xanomeline High Dose - Placebo Week 24 -0.8281984 1.0619021 167.4490 -2.9246398 1.268243 -0.7799197 0.4365391
+        analysis
+1 MMRM, observed
+2 MMRM, observed
+3 MMRM, observed
+4 MMRM, observed
+5 MMRM, observed
+6 MMRM, observed

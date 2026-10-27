@@ -1,0 +1,5 @@
+data-raw/*.vcf.gz
+data-raw/chr*
+data/
+*_files/
+data-raw/*.log

@@ -1,0 +1,36 @@
+# A tibble: 24 x 10
+   exposure method                       OR OR_lower OR_upper        p n_snps egger_intercept_p       q_p mean_F
+   <chr>    <chr>                     <dbl>    <dbl>    <dbl>    <dbl>  <int>             <dbl>     <dbl>  <dbl>
+ 1 apob     IVW (random effects)      1.41     1.28     1.54  6.12e-13    180            0.0151 8.03e-264   193.
+ 2 apob     MR-Egger                  1.58     1.39     1.80  8.31e-12    180            0.0151 8.03e-264   193.
+ 3 apob     Weighted median           1.44     1.33     1.55  3.16e-21    180            0.0151 8.03e-264   193.
+ 4 apob     Weighted mode             1.44     1.33     1.56  6.56e-19    180            0.0151 8.03e-264   193.
+ 5 apob     IVW, Steiger-filtered     1.45     1.35     1.55  3.43e-25    178            0.0151 8.03e-264   193.
+ 6 apob     IVW, without LPA and 9p21 1.39     1.30     1.49  7.82e-23    175            0.0151 8.03e-264   193.
+ 7 hdl      IVW (random effects)      0.829    0.792    0.867 3.45e-16    354            0.182  6.43e- 95   135.
+ 8 hdl      MR-Egger                  0.862    0.801    0.927 6.03e- 5    354            0.182  6.43e- 95   135.
+ 9 hdl      Weighted median           0.845    0.798    0.894 7.36e- 9    354            0.182  6.43e- 95   135.
+10 hdl      Weighted mode             0.880    0.791    0.981 2.05e- 2    354            0.182  6.43e- 95   135.
+# i 14 more rows
+# A tibble: 12 x 8
+   model              exposure_label   method                    OR OR_lower OR_upper        p n_snps
+   <chr>              <chr>            <chr>                  <dbl>    <dbl>    <dbl>    <dbl>  <int>
+ 1 A: LDL + HDL + TG  LDL cholesterol  Multivariable IVW      1.39     1.32     1.47  1.82e-31    855
+ 2 A: LDL + HDL + TG  HDL cholesterol  Multivariable IVW      0.854    0.816    0.894 1.14e-11    855
+ 3 A: LDL + HDL + TG  Triglycerides    Multivariable IVW      1.04     0.992    1.10  9.78e- 2    855
+ 4 A: LDL + HDL + TG  LDL cholesterol  Multivariable MR-Egger 1.48     1.39     1.58  1.53e-33    855
+ 5 A: LDL + HDL + TG  HDL cholesterol  Multivariable MR-Egger 0.867    0.828    0.907 8.44e-10    855
+ 6 A: LDL + HDL + TG  Triglycerides    Multivariable MR-Egger 1.07     1.01     1.12  1.46e- 2    855
+ 7 B: ApoB + HDL + TG Apolipoprotein B Multivariable IVW      1.30     1.24     1.36  8.44e-30    855
+ 8 B: ApoB + HDL + TG HDL cholesterol  Multivariable IVW      0.887    0.848    0.928 2.12e- 7    855
+ 9 B: ApoB + HDL + TG Triglycerides    Multivariable IVW      1.05     0.998    1.11  5.79e- 2    855
+10 B: ApoB + HDL + TG Apolipoprotein B Multivariable MR-Egger 1.35     1.28     1.42  4.69e-30    855
+11 B: ApoB + HDL + TG HDL cholesterol  Multivariable MR-Egger 0.892    0.852    0.933 6.22e- 7    855
+12 B: ApoB + HDL + TG Triglycerides    Multivariable MR-Egger 1.07     1.02     1.13  9.20e- 3    855
+# A tibble: 4 x 5
+  exposure     n slope_eas_on_eur sign_concordance     r
+  <chr>    <int>            <dbl>            <dbl> <dbl>
+1 apob       173            0.506            0.705 0.123
+2 hdl        338            0.693            0.666 0.427
+3 ldl        158            0.594            0.703 0.378
+4 tg         281            0.445            0.612 0.206

@@ -1,0 +1,26 @@
+                          records events median 0.95LCL 0.95UCL
+TRTA=Placebo                   86     29     NA      NA      NA
+TRTA=Xanomeline Low Dose       96     63     34      28      51
+TRTA=Xanomeline High Dose      72     60     31      23      46
+
+Log-rank p = 4.69e-14 
+
+Cox (HR, 95% CI)
+                         exp(coef) lower .95 upper .95            p
+TRTAXanomeline Low Dose  4.3710304 2.7714280  6.893885 2.226361e-10
+TRTAXanomeline High Dose 5.2799495 3.3328011  8.364696 1.360567e-12
+AGE                      0.9854762 0.9673388  1.003954 1.226766e-01
+SEXM                     1.4587923 1.0559143  2.015386 2.202715e-02
+
+PH test (cox.zph)
+            chisq df         p
+TRTA   1.82515417  2 0.4014882
+AGE    0.36425098  1 0.5461548
+SEX    0.02302662  1 0.8793879
+GLOBAL 2.08595183  4 0.7199537
+
+RMST to day 180
+                              rmean se(rmean)
+TRTA=Placebo              131.74465  7.555306
+TRTA=Xanomeline Low Dose   59.02546  6.675536
+TRTA=Xanomeline High Dose  46.37784  6.208102

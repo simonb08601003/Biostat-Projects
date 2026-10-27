@@ -1,0 +1,5 @@
+ldl: 42288 genome-wide SNPs -> 179 independent instruments
+hdl: 85419 genome-wide SNPs -> 388 independent instruments
+tg: 79288 genome-wide SNPs -> 322 independent instruments
+apob: 46099 genome-wide SNPs -> 194 independent instruments
+Instruments with rsIDs: apob 193, hdl 387, ldl 178, tg 322
